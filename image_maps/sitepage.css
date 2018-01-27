@@ -8,12 +8,17 @@
 		
 		
 		tr:hover { 
-background-color: #000; 
+background-color: #82CAFF; 
  color: #000; 
  color: #ffffff;
  
 }
 
+h3{
+	color: #0000FF
+	
+}
+	
 
 		
 		table {
@@ -36,13 +41,11 @@ background-color: #000;
 		
 		table.models
 		{
-		    width: 100%; 
-		    
-		}
+		    width: 100%; }
 
 	caption {
 font: bold 200% Arial, Helvetica, sans-serif;
-color: #33517a;
+color: #0000FF;
 text-align: left;
 padding: 0.5em 0 0.5em 0;
 }
